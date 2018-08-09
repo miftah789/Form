@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator Miftah</string>
+    <string name="btn_tombol">Tambah</string>
+    <string name="klik">KLIK</string>
+    <string name="editText_satu">Isikan Angka</string>
+    <string name="btn_tambah">Tambah</string>
+    <string name="btn_kurang">Kurang</string>
+    <string name="btn_bagi">Pembagian</string>
+    <string name="btn_kali">Perkalian</string>
+
+    <string-array name="list_kota">
+        <item>Banyuwangi</item>
+        <item>Lumajang</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+        <item>Ngawi</item>
+    </string-array>
+</resources>
